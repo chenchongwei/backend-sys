@@ -3,5 +3,5 @@ export const environment = {
   production: true,
   useHash: true,
   hmr: false,
-  host : 'http://localhost:3000'
+  host : 'http://114.115.233.131:12850'
 };
