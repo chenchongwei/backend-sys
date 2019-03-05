@@ -7,11 +7,12 @@ export const environment = {
   production: false,
   useHash: true,
   hmr: false,
-  host : 'http://localhost:3001'
+  host : 'http://114.115.233.131:12850'
 };
 
 /*
  * In development mode, to ignore zone related error stack frames such as
+ * `zone.run`, `zoneDelegate.invokeTask` for easier debugging, you can
  * `zone.run`, `zoneDelegate.invokeTask` for easier debugging, you can
  * import the following file, but please comment it out in production mode
  * because it will have performance impact when throw error
